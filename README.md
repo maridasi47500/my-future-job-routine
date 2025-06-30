@@ -1,4 +1,4 @@
 - villes
-- - job address gps ville ,
+- job address gps ville ,
 - ai : image in text,  speech to text, text to speech
 - your own cookbook
